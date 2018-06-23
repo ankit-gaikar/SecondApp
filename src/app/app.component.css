@@ -1,0 +1,18 @@
+.myform
+{
+    padding-left: 30%;
+    margin: 29px 0px 0px 70px;
+}
+table {
+    height: 20px;
+    width: 130px;
+    padding: 30px 140px 26px 89px;
+    border-block-end-color: blue;
+    border-color: blue;
+}
+input[type="text"] {
+    /* color: red; */
+    background-color: #e6dbdb;
+    border-bottom: 30px;
+    border-color: blue;
+}
